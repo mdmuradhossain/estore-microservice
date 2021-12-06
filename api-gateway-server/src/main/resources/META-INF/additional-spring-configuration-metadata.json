@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.cloud.gatway.routes[0].uri",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.gatway.routes[0].uri."
+  }
+] }
